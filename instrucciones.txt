@@ -1,0 +1,4 @@
+debes de contar conn python 3
+en tu cmd escribe:
+ pip install masspy numpy matplotlib pandas
+para que puedas correr los programas 
